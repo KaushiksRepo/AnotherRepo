@@ -1,1 +1,42 @@
 c.txt
+ ../.VirtualBox/
+        ../.bash_history
+        ../.copilot/
+        ../.gitconfig
+        ../.ipython/
+        ../.jupyter/
+        ../.lesshst
+        ../.pyenv/
+        ../.venv/
+        ../.viminfo
+        ../.vscode/
+        ../3D Objects/
+        ../AppData/
+        ../Contacts/
+        ../Desktop/
+        ../Documents/
+        ../Downloads/
+        ../Favorites/
+        ../IntelGraphicsProfiles/
+        ../Links/
+        ../Music/
+        ../NTUSER.DAT
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        ../OneDrive/
+        ../Pictures/
+        ../Saved Games/
+        ../Searches/
+        ../Videos/
+        ../VirtualBox VMs/
+        ../install-pyenv-win.ps1
+        ../newssh
+        ../newssh.pub
+        ../ntuser.dat.LOG1
+        ../ntuser.dat.LOG2
+        ../ntuser.ini
+
+
+
+
